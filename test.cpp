@@ -8,7 +8,7 @@ public:
     // Usage of virtual constructor
     virtual void calculate()
     {
-        cout << "Area of your Shape ";
+        cout << "Area of your Shape " << "edit from Developer2";
     }
     // usage of virtual Destuctor to avoid memory leak
     virtual ~Shape()
